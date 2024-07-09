@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+nats.spring:
+  server: nats://localhost:4222
+  connection-name: GG
